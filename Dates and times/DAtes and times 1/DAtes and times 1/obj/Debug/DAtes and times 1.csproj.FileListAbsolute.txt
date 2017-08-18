@@ -1,0 +1,6 @@
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\DAtes and times 1\DAtes and times 1\bin\Debug\DAtes and times 1.exe.config
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\DAtes and times 1\DAtes and times 1\bin\Debug\DAtes and times 1.exe
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\DAtes and times 1\DAtes and times 1\bin\Debug\DAtes and times 1.pdb
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\DAtes and times 1\DAtes and times 1\obj\Debug\DAtes and times 1.csprojResolveAssemblyReference.cache
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\DAtes and times 1\DAtes and times 1\obj\Debug\DAtes and times 1.exe
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\DAtes and times 1\DAtes and times 1\obj\Debug\DAtes and times 1.pdb

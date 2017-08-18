@@ -1,0 +1,5 @@
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\Dates and times 3\Dates and times 3\bin\Debug\Dates and times 3.exe.config
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\Dates and times 3\Dates and times 3\bin\Debug\Dates and times 3.exe
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\Dates and times 3\Dates and times 3\bin\Debug\Dates and times 3.pdb
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\Dates and times 3\Dates and times 3\obj\Debug\Dates and times 3.exe
+C:\Users\Pinoot de Barbaar\Desktop\Opleiding\C# prog\Dates and times\Dates and times 3\Dates and times 3\obj\Debug\Dates and times 3.pdb
